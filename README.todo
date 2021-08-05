@@ -1,0 +1,5 @@
+Crear un delimitador para que no se pueda ingresar más de una empresa en la base de datos
+Crear un nuevo Enum CondicionIva específico para empresa, donde esta clase no pueda ingresar "CONSUMIDOR FINAL"
+Imprementar Strategy en el método "TipoFactura setLetra" dentro de FacturaServiceImpl para evadir posibles modificaciones de las condiciones de IVA
+Utilizar Strategy en el método "TipoFactura setLetra" dentro de FacturaServiceImpl para evadir posibles modificaciones de las condiciones de IVA
+Implementar JWT
